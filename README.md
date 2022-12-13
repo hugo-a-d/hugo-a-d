@@ -1,7 +1,7 @@
 # Oh hi there, welcome to my GitHub page 👋
 **`Curious and inquisitive philosophy and logic post-graduate currently looking for opportunities as a Data Engineer`**
 
-I am Hugo, a curious and inquisitive philosophy and logic post-graduate currently looking for opportunities as a Data Engineer. I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
+I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
 
 I am currently working on personal projects focusing on NLP (making a BERT model is my first goal), as well as, the GCP Associate certification.
 ### Languages and Tools
@@ -17,6 +17,7 @@ I am currently working on personal projects focusing on NLP (making a BERT model
 
 ### Non tech stuff
 My academic background is in analytical philosophy, focusing on the normativity of logic. King's College London, Birkbeck London and UvA (Institute of Logic, Language and Computation) Alumnus.
+I am native speaker in French and English.
 
 
 <!--
