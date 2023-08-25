@@ -2,8 +2,9 @@
 **`A Curious and inquisitive philosophy and logic post-graduate currently looking for opportunities in Data`**
 
 I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
-
 I am currently working as an Data Science intern for Beesage, as well as personal projects focusing on NLP and a Spotify recommender.
+LinkedIn: https://www.linkedin.com/in/hugo-darcy/
+
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
