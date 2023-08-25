@@ -1,5 +1,5 @@
 # Oh hi there, welcome to my GitHub page 👋
-**`Curious and inquisitive philosophy and logic post-graduate currently looking for opportunities as a Data Engineer`**
+**`A Curious and inquisitive philosophy and logic post-graduate currently looking for opportunities in Data`**
 
 I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
 
