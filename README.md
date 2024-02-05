@@ -1,5 +1,5 @@
 # Oh hi there, welcome to my GitHub page 👋
-**`A Curious and inquisitive philosophy and logic post-graduate currently looking for opportunities in Data`**
+**`A Curious and inquisitive philosophy and logic post-graduate currently a Data Enginner for IntoData`**
 
 I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
 I am currently working as an Data Science intern for Beesage, as well as personal projects focusing on NLP and a Spotify recommender.
