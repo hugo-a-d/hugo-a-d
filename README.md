@@ -1,4 +1,5 @@
 Hi I'm Hugo, welcome to my GitHub page 👋
+
 **`I'm a curious and inquisitive individual with over 2 years’ experience in tech, combining philosophical ability with technical skills. Focused on building scalable, automated data systems that deliver trustworthy data across the organization.`**
 
 ### 💡 What I'm Working On
