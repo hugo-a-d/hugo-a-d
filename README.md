@@ -5,7 +5,7 @@ I have recently completed the LeWagon Data Science Bootcamp to develop skills Da
 I am currently working as an Data Science intern for Beesage, as well as personal projects focusing on NLP and a Spotify recommender.
 LinkedIn: https://www.linkedin.com/in/hugo-darcy/
 
-### Languages and Tools
+### Tech Stack
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="50px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -13,10 +13,11 @@ LinkedIn: https://www.linkedin.com/in/hugo-darcy/
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="GCP" width="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="ansible-original-word" width="50px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />         
+<img align="left" width="50px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />         
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-          
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+                    
 
 
 
