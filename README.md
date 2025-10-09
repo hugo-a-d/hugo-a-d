@@ -1,5 +1,5 @@
-# Oh hi there, welcome to my GitHub page 👋
-**`A Curious and inquisitive philosophy and logic post-graduate currently a Data Enginner for IntoData`**
+Hi I'm Hugo, welcome to my GitHub page 👋
+**`A curious and inquisitive individual with over 2 years’ experience in tech, combining philosophical ability with technical skills. Focused on building scalable, automated data systems that deliver trustworthy data across the organization.`**
 
 I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
 I am currently working as an Data Science intern for Beesage, as well as personal projects focusing on NLP and a Spotify recommender.
@@ -13,7 +13,10 @@ LinkedIn: https://www.linkedin.com/in/hugo-darcy/
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-| SciKit-Learn | Streamlit 
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+          
+          
+
 
 
 ### Non tech stuff
