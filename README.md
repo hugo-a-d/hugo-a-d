@@ -1,9 +1,17 @@
 Hi I'm Hugo, welcome to my GitHub page 👋
-**`A curious and inquisitive individual with over 2 years’ experience in tech, combining philosophical ability with technical skills. Focused on building scalable, automated data systems that deliver trustworthy data across the organization.`**
+**`I'm a curious and inquisitive individual with over 2 years’ experience in tech, combining philosophical ability with technical skills. Focused on building scalable, automated data systems that deliver trustworthy data across the organization.`**
 
-I have recently completed the LeWagon Data Science Bootcamp to develop skills Data Engineering, Data Analysis and Data Science. 
-I am currently working as an Data Science intern for Beesage, as well as personal projects focusing on NLP and a Spotify recommender.
-LinkedIn: https://www.linkedin.com/in/hugo-darcy/
+### 💡 What I'm Working On
+-  Deploying data infrastructure components — **Elasticsearch**, and **Kafka**
+-  Exploring automation and orchestration with **Ansible**
+-  Experimenting with a **Zimaboard** for tinkering, virtualization, and network automation
+
+### 🌱 Currently Learning
+- Kubernetes
+- CI/CD best practices
+- Databricks
+
+
 
 ### Tech Stack
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -17,16 +25,13 @@ LinkedIn: https://www.linkedin.com/in/hugo-darcy/
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
 <img align="left" alt="GCP" width="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-                    
+                              
+<br clear="left" />      
 
-
-
-          
-<br clear="left" />          
 
 ### Non tech stuff
 My academic background is in analytical philosophy, focusing on the normativity of logic. King's College London, Birkbeck London and UvA (Institute of Logic, Language and Computation) Alumnus.
-I am native speaker in French and English.
+I am native speaker in French and English. I am interested in strategy games, salsa dancing and bouldering. 
 
 
 <!--
