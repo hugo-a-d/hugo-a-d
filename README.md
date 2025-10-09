@@ -21,6 +21,7 @@ LinkedIn: https://www.linkedin.com/in/hugo-darcy/
 
 
 
+
 ### Non tech stuff
 My academic background is in analytical philosophy, focusing on the normativity of logic. King's College London, Birkbeck London and UvA (Institute of Logic, Language and Computation) Alumnus.
 I am native speaker in French and English.
