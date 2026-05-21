@@ -30,15 +30,15 @@ Hi I'm Hugo, welcome to my GitHub page 👋
 
           
 <br clear="left" />      
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/2ec60706-f1aa-497a-8dfa-33655dfd4ff5/thumbnail" >
-</p>
+
 
 ### Non tech stuff
 My academic background is in analytical philosophy, focusing on the normativity of logic. King's College London, Birkbeck London and UvA (Institute of Logic, Language and Computation) Alumnus.
 I am native speaker in French and English. I am interested in strategy games, salsa dancing and bouldering. 
 
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/2ec60706-f1aa-497a-8dfa-33655dfd4ff5/thumbnail" >
+</p>
 <!--
 **hugo-a-d/hugo-a-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
